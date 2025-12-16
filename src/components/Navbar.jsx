@@ -17,7 +17,7 @@ const Navbar = () => {
 
         <NavLink to="/">
           <div className="ml-5">
-          <img src={Logo} className="h-14"/>
+          <img src={Logo} alt="Shopping Cart Logo" className="h-14"/>
           </div>
         </NavLink>
 
