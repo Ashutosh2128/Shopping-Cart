@@ -110,7 +110,7 @@ http://localhost:3000
 - LocalStorage persistence implemented at store level
 
 ## Video Walkthrough
-- A detailed video walkthrough (≤15 minutes) explaining:
+- A detailed video walkthrough (15 minutes) explaining:
 - Application workflow
 - Design decisions
 - Redux logic
@@ -126,5 +126,5 @@ http://localhost:3000
 
 ## Author
 Ashutosh Prusty
-MCA Student || Full-Stack & DSA Enthusiast
-Campus Placement Assignment – Grafyn AI
+MCA Student || Full-Stack & DSA Enthusiast.
+Campus Placement Assignment - Grafyn AI
