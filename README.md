@@ -80,7 +80,7 @@ src/
 
 ### Clone the repository
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/Ashutosh2128/Shopping-Cart
 ```
 
 ### Navigate to project directory
@@ -102,3 +102,29 @@ npm start
 ```bash
 http://localhost:3000
 ```
+
+## Key Functional Highlights
+- Quantity-based cart management (no duplicate items)
+- Derived state for totals using Array.reduce
+- Centralized cart logic inside Redux reducers
+- LocalStorage persistence implemented at store level
+
+## Video Walkthrough
+- A detailed video walkthrough (≤15 minutes) explaining:
+- Application workflow
+- Design decisions
+- Redux logic
+- Cart persistence
+  - Link: (Add your Drive / OneDrive link here)
+
+## Documentation
+- Brief documentation explaining:
+- Application architecture
+- State flow
+- Cart logic
+  - (Attached separately as Word / PPT as per instructions)
+
+## Author
+Ashutosh Prusty
+MCA Student || Full-Stack & DSA Enthusiast
+Campus Placement Assignment – Grafyn AI
