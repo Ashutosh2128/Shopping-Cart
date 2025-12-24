@@ -3,6 +3,11 @@
 A modern ReactJS-based Shopping Cart application built as part of the Grafyn AI (Vistora AI) Web Development Assignment.
 The application allows users to browse products, add them to a cart, manage quantities, and view real-time cart summaries with persistence.
 
+## Live Demo
+
+*Website:* https://shopping-cart-ashutosh.netlify.app/
+*GitHub Repository:* https://github.com/Ashutosh2128/Shopping-Cart
+
 ## Objective
 
 To build a simple e-commerce shopping cart application using ReactJS that supports:
@@ -115,14 +120,14 @@ http://localhost:3000
 - Design decisions
 - Redux logic
 - Cart persistence
-  - Link: (Add your Drive / OneDrive link here)
+- Link: https://drive.google.com/file/d/1uqNvKiILpmEtvb9GD--8yEik7wVbHvrz/view?usp=drive_link
 
 ## Documentation
 - Brief documentation explaining:
 - Application architecture
 - State flow
 - Cart logic
-  - (Attached separately as Word / PPT as per instructions)
+- Link: https://drive.google.com/file/d/1vpnFPT8y_dWuid7InaGqDganJ0IKrkXo/view?usp=drive_link
 
 ## Author
 Ashutosh Prusty
